@@ -1,0 +1,23 @@
+/* .slick-slider {
+  padding-left: 20px;
+} */
+
+.slick-prev {
+  z-index: 1;
+  /* background-color: red !important; */
+}
+.slick-next {
+  z-index: 1;
+  /* background-color: red !important; */
+}
+
+.slick-dots li button:before {
+  color: rgb(179, 178, 178) !important;
+  font-size: 10px !important;
+  margin-top: 20px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white !important;
+  /* font-size: 12px !important; */
+}
