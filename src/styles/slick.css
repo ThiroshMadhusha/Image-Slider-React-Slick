@@ -1,14 +1,8 @@
-/* .slick-slider {
-  padding-left: 20px;
-} */
-
 .slick-prev {
   z-index: 1;
-  /* background-color: red !important; */
 }
 .slick-next {
   z-index: 1;
-  /* background-color: red !important; */
 }
 
 .slick-dots li button:before {
@@ -19,5 +13,4 @@
 
 .slick-dots li.slick-active button:before {
   color: white !important;
-  /* font-size: 12px !important; */
 }
